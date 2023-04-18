@@ -9,8 +9,8 @@ hackintosh EFI for MacOS 13.3
 | --- | --- | --- |
 | 主板 | ASUS ROG STRIX Z790-A GAMING WIFI D4（LPC Controller/eSPI Controller - 7A04） |  |
 | 处理器 | 13th Gen Intel Core i7-13700 | 已驱动 |
-| 内存 | 64 GB ( 海盗船 DDR4 3200MHz 16GB x 4 ) | 已驱动 |
-| 硬盘 | 三星 SSD 970 EVO Plus 1TB (1 TB / 固态硬盘) | 已驱动 |
+| 内存 | 16 GB ( 威刚XPG DDR4 3600MHz 8GB x 2 ) | 已驱动 |
+| 硬盘 | sn 550 1TB (1 TB / 固态硬盘) | 已驱动 |
 | 显卡 |  AMD Radeon 6950XT ( 16 GB / 讯景 ) | 已驱动 |
 | 声卡 | Generic USB Audio(Generic USB Audio) | 已驱动 |
 | 网卡 | i226v | 已驱动 |
@@ -18,4 +18,4 @@ hackintosh EFI for MacOS 13.3
 
 ## BIOS 设置关闭以下项目：
 
--   1.  `Secure Boot` -> `Disabled`, if no `Disabled`, you should select `standard`
+-   1.  `Secure Boot` -> `Disabled`. In some versions of BIOS, there is no `Disabled`, you should select `standard`
