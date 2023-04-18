@@ -1,4 +1,3 @@
-# Hackintosh-ASUS-ROG-STRIX-Z790-A-GAMING-WIFI-D4-i7-13700-6950XT
 
 hackintosh EFI for MacOS 13.3
 
