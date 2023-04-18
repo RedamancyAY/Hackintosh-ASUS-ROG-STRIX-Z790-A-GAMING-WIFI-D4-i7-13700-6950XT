@@ -18,4 +18,4 @@ hackintosh EFI for MacOS 13.3
 
 ## BIOS 设置关闭以下项目：
 
--   1.  `Secure Boot` -> `Disabled`. In some versions of BIOS, there is no `Disabled`, you should select `standard`
+- `Secure Boot` -> `Disabled`. In some versions of BIOS, there is no `Disabled`, you should select `standard`
