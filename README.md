@@ -13,7 +13,8 @@ hackintosh EFI for MacOS 13.3
 | 显卡 |  AMD Radeon 6950XT ( 16 GB / 讯景 ) | 已驱动 |
 | 声卡 | Generic USB Audio(Generic USB Audio) | 已驱动 |
 | 网卡 | i226v | 已驱动 |
-| 无线网卡+蓝牙 | FV-T919 BCM94360CD |  已驱动 |
+| 无线网卡+蓝牙 | ~FV-T919 BCM94360CD~ |  已驱动 |
+| 无线网卡+蓝牙 | 自带的AX210 |  已驱动 |
 
 ## BIOS 设置关闭以下项目：
 
